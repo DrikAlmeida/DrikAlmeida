@@ -2,8 +2,11 @@
 👋 Olá! Sou Adriele dos Santos, estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, suporte técnico, SQL e versionamento de código com Git/GitHub.
 
 💡 O que você encontra aqui?
+
 📌 Projetos e desafios de programação
+
 📌 Anotações e estudos sobre TI
+
 📌 Dicas e aprendizados da minha jornada
 
 🔧 Tecnologias que estou explorando:
